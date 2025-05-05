@@ -9,6 +9,6 @@
 
 ## 📌 Table of Contents
 
-* [🏢 AhnLab Career](./ahnlab.md)
-* [🏢 HP Career](./hp.md)
-* [🏢 Samsung Career](./samsung.md)
+* [🏢 AhnLab Career (Sep 2021 \~ Present)](./ahnlab.md)
+* [🏢 HP Career (Nov 2016 \~ Aug 2021)](./hp.md)
+* [🏢 Samsung Career (Feb 2016 ~ Nov 2016)](./samsung.md)

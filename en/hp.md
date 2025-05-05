@@ -1,70 +1,108 @@
-# 🏢 HP Career Details (Nov 2016 \~ Aug 2021)
+# 🏢 HP Career Overview (2016.11 – 2021.08)
 
 ## ✅ Key Responsibilities
 
-* Developed embedded firmware for ARM-based multifunction printers
-* Built and automated RootFS using Yocto
-* Created STM32-based keyboard firmware
-* Automated build environments with Docker and Jenkins
+* Developed firmware for ARM-based embedded systems in multifunction printers (MFP)
+* Built and automated RootFS systems using Yocto
+* Developed firmware for optional STM32-based keyboard peripherals
+* Automated build environment using Docker and Jenkins
 
-## 📌 Major Projects
+## 📌 Major Project Summary
 
-### 🔹 Daily Integrated Build System
+### 🔹 Daily Integrated Build System (2019.01 – 2020.04)
 
-* Built daily integration system for Boot, Print, Scan, Fax, and Engine components
-* Uploaded firmware to Nexus server and distributed to VMs for automated testing
-
-**Achievements:**
-
-* Enhanced reliability through automated testing
-* Ensured early quality integration of products
-
-### 🔹 Yocto-based RootFS Automation
-
-* Migrated from legacy build method to Yocto recipe-based builds
-* Developed scripts to auto-deploy SDK and shared across teams
+* Developed a unified build system for MFP components: Boot, Print, Scan, Fax, Engine
+* Uploaded firmware to Nexus and deployed it to VMs for automated testing
 
 **Achievements:**
 
-* Improved maintainability and build automation
-* Simplified development workflow during toolchain updates
+* Realized test automation and improved reliability
+* Maintained consistent daily build quality
 
-### 🔹 Optional Keyboard Firmware
+**Project Details:**
 
-* Developed firmware for optional keyboard using STM32 microcontroller
+* [✅ Daily Integrated Build System](./projects/hp-daily-integrated-build.md)
 
-**Achievements:**
+---
 
-* Improved user experience and expandability for printer options
+### 🔹 Yocto-Based RootFS Automated Build (2017.03 – 2018.06)
 
-### 🔹 Storage Manager & Secure HDD Features
-
-* Implemented secure eMMC trim, disk format, and clean features
-* Developed PCIe-based Secure HDD features and optional disk formatting logic
+* Migrated legacy build process to a Yocto recipe-based structure
+* Developed SDK distribution automation scripts and shared them company-wide
 
 **Achievements:**
 
-* Enhanced data security and user trust
-* Supported flexible installation of optional hardware
+* Enhanced build automation and maintainability
+* Enabled flexible toolchain updates and smoother transitions
 
-### 🔹 Log & Debugging System Enhancements
+**Project Details:**
 
-* Collected logs for printer/scan/fax using RPC
-* Added crash logs, journal logs, and disk usage-based compression logic
+* [✅ Yocto-Based RootFS Automated Build](./projects/hp-yocto-rootfs-automation.md)
 
-**Achievements:**
+---
 
-* Improved incident response for multifunction printers
-* Optimized disk usage
+### 🔹 STM32-Based Optional Keyboard Firmware (2019.01 – 2020.07)
 
-### 🔹 RPC Communication & Sample App
-
-* Built RPC communication libraries for multi-core embedded environment
-* Developed and distributed reference apps for internal teams
+* Developed keyboard firmware for MFPs using STM32
+* Implemented key input handling and support for optional peripheral expansion
 
 **Achievements:**
 
-* Enabled stable multi-core communication
-* Improved collaboration and productivity
+* Enhanced user convenience and extended peripheral support
 
-[🔙 Back to Main](../en/README.md)
+**Project Details:**
+
+* [✅ STM32-Based Optional Keyboard Firmware](./projects/hp-keyboard-firmware-stm32.md)
+
+---
+
+### 🔹 Storage Manager & Secure HDD Features (2018.10 – 2019.01)
+
+* Implemented eMMC trim, disk formatting, and clean wipe functions
+* Enhanced security by controlling SATA/PCIe-based Secure HDDs (SED)
+* Automated disk formatting and installation for optional drives
+
+**Achievements:**
+
+* Strengthened protection of sensitive data
+* Increased user trust and product credibility
+
+**Project Details:**
+
+* [✅ Storage Manager & Secure HDD Features](./projects/hp-secure-hdd-storage.md)
+
+---
+
+### 🔹 Log and Debugging System Enhancements (2020.10 – 2021.03)
+
+* Developed log collection for print/scan/fax features using RPC
+* Implemented crash log, journal log, and disk-usage-based log compression
+
+**Achievements:**
+
+* Improved issue response and failure diagnostics for MFPs
+* Optimized disk space usage
+
+**Project Details:**
+
+* [✅ Log and Debugging System Enhancements](./projects/hp-log-debug-system.md)
+
+---
+
+### 🔹 RPC Communication Library & Sample App (2017.03 – 2018.03)
+
+* Designed an RPC communication library for multicore MFP systems
+* Created and distributed sample applications to internal development teams
+
+**Achievements:**
+
+* Delivered stable multicore communication framework
+* Boosted cross-team collaboration and development efficiency
+
+**Project Details:**
+
+* [✅ RPC Communication Library & Sample App](./projects/hp-rpc-library-sample-app.md)
+
+---
+
+[🔙 Back to Main](./README.md)

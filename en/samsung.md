@@ -1,33 +1,58 @@
-# 🏢 Samsung Electronics – Career Details (Feb 2016 ~ Nov 2016)
+# 🏢 Samsung Electronics Career Overview (2016.02 – 2016.11)
 
-## ✅ Key Roles
-- Development and maintenance of embedded system firmware for multifunction printers
-- Maintenance of build automation scripts
-- Development support for B2B customer requests
+## ✅ Key Responsibilities
 
-## 📌 Major Projects
+* Developed and maintained embedded firmware for MFP (Multifunction Printer) systems
+* Maintained build automation scripts for firmware delivery
+* Delivered customized firmware features for B2B clients
 
-### 🔹 Boot ROM Firmware Build Script Maintenance
-- Improved unified build scripts for U-Boot, Linux Kernel, UBI fs, and Rootfs
-- Designed build flows to support various printer products
+## 📌 Major Project Summary
 
-**Achievements:**
-- Supported over 20 projects simultaneously
-- Improved productivity and consistency
+### 🔹 Bootrom Firmware Automated Build Maintenance (2016.02 – 2016.11)
 
-### 🔹 Device Monitor Feature Development
-- Implemented functions for monitoring system states like CPU temperature and USB status
+* Improved build scripts for U-Boot, Linux Kernel, UBI filesystem, and RootFS
+* Created a unified build flow for various MFP product lines
 
 **Achievements:**
-- Enabled real-time monitoring
-- Improved maintainability and reliability
 
-### 🔹 B2B Firmware Support
-- Customized firmware development based on customer requests
-- Requirement analysis and functional enhancements
+* Supported over 20 different projects through a single integrated flow  
+* Improved productivity and build consistency
+
+**Project Details:**
+
+* [✅ Bootrom Firmware Automated Build Maintenance](./projects/samsung-bootrom-build-maintenance.md)
+
+---
+
+### 🔹 Device Monitoring Feature Development (2016.05 – 2017.03)
+
+* Implemented real-time system status monitoring for CPU temperature, USB status, and more
 
 **Achievements:**
-- Delivered tailored service for enterprise customers
-- Provided flexible support for various needs
+
+* Enabled real-time device health monitoring  
+* Improved system reliability and maintainability
+
+**Project Details:**
+
+* [✅ Device Monitoring Feature Development](./projects/samsung-bootrom-build-maintenance.md)
+
+---
+
+### 🔹 B2B Firmware Customization (2016.05 – 2017.03)
+
+* Delivered firmware customizations based on client requirements  
+* Performed requirement analysis and implemented custom features
+
+**Achievements:**
+
+* Provided tailored firmware services for enterprise clients  
+* Enabled flexible response to diverse customer needs
+
+**Project Details:**
+
+* [✅ B2B Firmware Customization](./projects/samsung-b2b.md)
+
+---
 
 [🔙 Back to Main](./README.md)

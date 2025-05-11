@@ -12,8 +12,7 @@ Terraform, Ansible, Jenkins, Docker 등의 도구를 활용해 실제 서비스 
 
 - **Infra & DevOps**: Terraform, Ansible, Docker, Jenkins, GitHub Actions  
 - **CI/CD & 자동화**: 다중 환경 배포 자동화, 테스트 자동화, 운영 효율화 경험  
-- **OS & 시스템 개발**: Embedded Linux, Yocto, Bash, Device Driver  
-- **Monitoring & Observability**: 기본적인 Prometheus, Grafana 구성 경험  
+- **OS & 시스템 개발**: Embedded Linux, Yocto, Bash, Device Driver   
 - **보안 소프트웨어 개발**: C 언어 기반 보안 모듈, 네트워크 트래픽 분석, 메모리 최적화  
 - **클라우드 및 가상화**: AWS, VMware, KVM 환경 운영 경험
 
